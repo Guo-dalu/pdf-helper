@@ -1,0 +1,23 @@
+# Ignore Python virtual environment
+venv/
+.env/
+.env*/
+
+# Ignore installed packages and dependencies
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system and hidden files
+.DS_Store
+Thumbs.db
+
+# Ignore local configuration files
+*.local
+*.env
