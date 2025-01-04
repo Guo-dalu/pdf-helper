@@ -2,6 +2,9 @@
 
 This Python script extracts text from image-based PDFs using Optical Character Recognition (OCR). It supports multiple languages (default: Simplified Chinese) and saves the extracted text as `.txt` files.
 
+*My first personal Python project, mostly written with the help of DeepSeek and Cursor ^^*
+
+*(个人尝试的第一个 python 项目，基本是用 DeepSeek 和 cursor 写的^^)*
 ---
 
 ## Requirements
